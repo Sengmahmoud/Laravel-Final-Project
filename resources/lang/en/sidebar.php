@@ -1,0 +1,27 @@
+<?php
+return
+[
+	'students' 				=> 'Students',
+	'all_students' 			=> 'All Students',
+	'pending_students' 		=> 'Pending Students',
+	'student_pass_reset' 	=> 'Student Pass Reset',
+	'disabled_students' 	=> 'Disabled Students',
+	'deleted_students' 		=> 'Deleted Students',
+	'posts' 				=> 'Posts',
+	'all_posts' 			=> 'All Posts',
+	'pending_post' 			=> 'Pending Posts',
+	'disabled_post' 		=> 'Disabled Posts',
+	'deleted_post' 			=> 'Deleted Posts',
+	'reported_post' 		=> 'Reported Posts',
+	'comments' 				=> 'Comments',
+	'all_comments' 			=> 'All Comments',
+	'pending_comments' 		=> 'Pending Comments',
+	'disabled_comments' 	=> 'Disabled Comments',
+	'deleted_comments' 		=> 'Deleted Comments',
+	'reported_comments' 	=> 'Reported Comments',
+	'' => '',
+	'' => '',
+	'' => '',
+	'' => '',
+	'' => '',
+];
